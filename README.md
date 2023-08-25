@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-```
+```js
 const WorkWith = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
